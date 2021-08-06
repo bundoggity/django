@@ -1,3 +1,3 @@
 # django
 
-Django application built to send and recieve mail from users on the platform
+Django application built to send and recieve emails from users on the platform
