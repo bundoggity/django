@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+
+#emails-list {
+    margin: 5px;
+}
+
+#archive-container {
+    text-align: center;
+}
+
+#archive-container button {
+    margin-right: 5px;
+    margin-left: 5px;
+}
